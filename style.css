@@ -1,0 +1,236 @@
+body{
+    margin: 0;
+}
+
+.container{
+	background-color:grey;
+}
+
+/*the big div of logo and navigation*/
+
+/*white class is for all the divs that background of it is white */
+.white{
+    background-color:white;
+}
+/*blue class is for all the divs that background of it is blue */
+.blue{
+	background-color:#4f5977;
+	margin-bottom: -22px;
+}
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    text-decoration: none;
+    color:black;
+}
+/******************begin of the first div logo and links*********************8/
+/*the logo div*/
+.logo{
+	width:25%;
+	display:inline-block;
+	text-align:right;
+	box-sizing:border-box;
+	vertical-align:middle;
+	font-size:30px;
+}
+
+/*the big div of the ul and list*/
+.nav{
+	width:65%;
+	display:inline-block;
+    text-align:right;	
+	box-sizing:border-box;
+	vertical-align:middle;
+    font-size:0px;	
+}
+
+ul{
+	display:inline-block;	
+    text-align:left;
+    font-size:16px;
+	vertical-align:middle;
+	
+}
+
+li{
+	display:inline-block;
+	padding:16px;
+	text-align:right;
+	vertical-align:middle;
+}
+
+/*end of first div*/
+/********************begin of second div****************************8/
+/*the big div of the text*/
+/*the text div which in it h1, p and button*/
+.text{
+	width:50%;
+	color:white;
+	padding:40px;		
+}
+
+button{
+	background-color:#7bdf95;
+	border:none;
+	width:70px;
+	height:20px;	
+}
+
+.but1{
+    background-color:#4f5977;
+	border:1px solid black;
+	width:70px;
+	height:20px;
+}
+
+/**********************the third div which named featured*******************/
+/*this code for the title feature and the out work  which is the fifth div*/
+.feature{
+    text-align: center;
+    color:#4f5977;
+    
+}
+.feature p {
+    width:455px;
+    color:black;
+	text-align: center;
+    display: inline-block;
+}
+
+.section{
+    width:100%;
+    text-align:center;
+}
+
+.bigleft, .sec1, .so, .sec2, .bigright, .sec3, .sec4{
+   
+    display:inline-block;
+}
+
+.secimage{
+    width:60px;
+    height:60px;
+    display: inline-block;
+}
+
+/***************begin of fourth div**************************/
+.center{
+    background-color:#47516f;
+    display:inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding: 31px 0;
+}
+
+.left, .right{
+    display:inline-block;
+    width: 34.33%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding:40px 0;
+}
+
+/*****************div five with 8 images****************/
+/*the div inside the 8 images*/
+.big{
+    width:100%;
+    display:inline-block;
+}
+
+/*the div inside it the first four and second four pictures*/
+.top{
+    width:95%;
+    display:inline-block;
+}
+
+/*the lemon image*/
+.yellow{
+    width:200px;
+    display:inline-block;
+    padding:50px;
+}
+
+
+/*h1 and p under image lemon style*/
+.text2{
+    width:20%;
+    display:inline-block;
+    margin-left: 60px;
+    }
+.text2 h2{
+    color:#4f5977;
+}
+/*the div inside the 8 images end*/
+
+/****************************begin of div six ***************************/
+.left1{
+	width:40%;
+	display:inline-block;
+	text-align:left;
+	vertical-align:middle;
+	font-size:16px;
+    padding-left: 60px;
+    color:white;
+}
+
+.left1 p{
+    color:grey;
+}
+
+.right1{
+	width:45%;
+	display:inline-block;
+    text-align:right;	
+    font-size:20px;	
+}
+/*the six div end*/
+
+/***************************the begin of div seven **************************/
+.lemon{
+    width:100px;
+    height:100px;
+}
+/***************************the end of div seven**************************/
+
+
+
+/*****************************begin of div eight****************************/
+/****div eight is the same classes of div six */
+/**************************end of div eight*****************************/
+
+
+/******************************begin of div nine********************/
+.percent{
+    width:200px; 
+}
+/***************************end of div nine********************/
+/*social media icons in the right div*/
+.icon{
+    width:30px;
+    height:30px;
+}
+/***************************begin of div ten**********************/
+.center1{
+    background-color:#4f5977;
+    display:inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding:40px 0;
+}
+/**************************end of div ten*************************/
+
+/***************************begin of div eleven**********************/
+.eleven{
+    background-color:#47516f;
+}
+/**************************end of div eleven*************************/
+
